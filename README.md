@@ -1,2 +1,3 @@
 # bitbybit.farm
-BitByBit.farm website
+
+Here shall be all the website code
